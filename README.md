@@ -5,7 +5,8 @@ Bu proje, Trakya Üniversitesi Bilgisayar Teknolojileri Bölümü bitirme projes
 ## İstatistiksel Analiz
 
 ### Kayıp Çocuk İstatistikleri Dashboard'u
-![image](https://github.com/user-attachments/assets/0eaad294-6e82-4eb5-8b78-ef2b9df0312c)
+![image](https://github.com/user-attachments/assets/db5cd107-6fe5-468e-99ad-40fda0557a31)
+
 
 
 ## Uygulama Mimarisi ve Akış
@@ -59,7 +60,8 @@ classDiagram
 ```
 
 ### Performans Metrikleri
-![image](https://github.com/user-attachments/assets/904d3f5a-adb7-4069-9cf1-e1d46a3540fa)
+![image](https://github.com/user-attachments/assets/2559f0d2-f917-4842-a04d-34c2ca95da16)
+
 
 
 ## Özellikler

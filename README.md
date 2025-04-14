@@ -1,6 +1,8 @@
 # Çocuk Kaybolmalarında Veli Yardımcısı
 
 Bu proje, Trakya Üniversitesi Bilgisayar Teknolojileri Bölümü bitirme projesi olarak geliştirilmiştir.
+Proje Raporu :
+https://github.com/ck-cankurt/android_bitirme_proje/blob/c299453576ef184325a31197b39626f7c3710e42/docs/SON_RAPOR_Redaksiyon.pdf
 
 ## İstatistiksel Analiz
 
